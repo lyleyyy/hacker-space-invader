@@ -24,8 +24,7 @@ Hacker is a grid-based arcade-style shooting and collection game built with Pyth
 
 ## 📸 Screenshots
 
-![gameplay](images/demo_screenshot.png)  
-_(Insert a screenshot of gameplay here)_
+![gameplay](images/demo_screenshot.png)
 
 ## 🚀 Getting Started
 
